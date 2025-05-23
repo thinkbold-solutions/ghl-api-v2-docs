@@ -1,5 +1,5 @@
 ---
-name: "\U0001F31F Feature Request"
+name: "\U0001F31F Feature Request: New Product"
 about: Suggest a new feature or documentation improvement
 title: "[Feature New Product] "
 labels: 'feature-new-product'

@@ -1,7 +1,7 @@
 ---
-name: "\U0001F41B API Field Missing Bug Report"
+name: "\U0001F41B Documentation Errors Bug Report"
 about: Report a problem with the documentation
-title: "[Documentation Missing Bug] "
+title: "[Documentation Errors Bug] "
 labels: bug-documentation-errors
 assignees: ''
 
