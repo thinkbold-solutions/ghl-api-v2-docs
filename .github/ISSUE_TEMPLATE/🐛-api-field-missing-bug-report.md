@@ -1,8 +1,8 @@
 ---
-name: 🐛 Bug Report
+name: "\U0001F41B API Field Missing Bug Report"
 about: Report a problem with the documentation
-title: "[Bug] "
-labels: bug
+title: "[API Field Missing Bug] "
+labels: bug-missing-api-field
 assignees: ''
 
 ---
@@ -11,9 +11,9 @@ assignees: ''
 
 A clear and concise description of what the bug is.
 
-## 📍 Location
+## 📍 API Endpoint
 
-Which page/endpoint does this relate to?
+Which API endpoint does this relate to?
 
 ## ✅ Expected Behavior
 
